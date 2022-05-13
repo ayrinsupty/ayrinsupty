@@ -6,12 +6,12 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Supty | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Supty | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Supty | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
-[<img align="left" alt="Supty | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Supty | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
-[<img align="left" alt="Supty | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
+[<img align="left" alt="" height="22px" src="./SocialLogo/Skype.png" />][skype]
+[<img align="left" alt="" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
+[<img align="left" alt="" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
+[<img align="left" alt="" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 
 <br />
 

@@ -11,11 +11,10 @@
 
 [<img align="left" alt="Supty | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="Supty | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Supty | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
-[<img align="left" alt="Sabesan | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Sabesan | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
-[<img align="left" alt="Sabesan | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="Sabesan | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][email]
+[<img align="left" alt="Supty | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
+[<img align="left" alt="Supty | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
+[<img align="left" alt="Supty | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Supty | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][email]
 
 
 <br />
@@ -28,7 +27,6 @@
 [email]: mailto:ayrinsupty@hotmail.com
 [whatsapp]: https://wa.me/8801300813663
 [twitter]: https://twitter.com/suptyahmed
-[skype]: https://join.skype.com/invite/ayrin.supty
 [facebook]: https://www.facebook.com/zenxnezu
 [messenger]: https://www.messenger.com/t/zenxnezu
 [instagram]: https://www.instagram.com/abcdefghijklmno_qr___vwx_z

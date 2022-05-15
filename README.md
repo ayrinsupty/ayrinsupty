@@ -8,7 +8,7 @@
 - 😄 Pronouns: She / Her
 
 ### Connect with me:
-
+[<img align="left" alt="Supty | Dev" height="22px" src="./SocialLogo/Dev.png" />][dev]
 [<img align="left" alt="Supty | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="Supty | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
 [<img align="left" alt="Supty | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
@@ -23,7 +23,7 @@
 <em>Don't hesitate to get in touch!</em>
 </p>
 
-
+[dev]: https://dev.to/ayrinsupty
 [email]: mailto:ayrinsupty@hotmail.com
 [whatsapp]: https://wa.me/8801300813663
 [twitter]: https://twitter.com/suptyahmed

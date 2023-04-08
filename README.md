@@ -1,4 +1,4 @@
-## I'm a Student, Undergraduate and Developer!
+## I'm a Student, Graduate and Developer!
 
 - 👋 Hi, I’m @ayrinsupty
 - 👀 I’m interested in coding and reading novels.

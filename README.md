@@ -25,11 +25,11 @@
 
 [dev]: https://dev.to/ayrinsupty
 [email]: mailto:ayrinsupty@hotmail.com
-[whatsapp]: https://wa.me/8801300813663
+[whatsapp]: https://wa.me/420776592542
 [twitter]: https://twitter.com/imsupty
-[facebook]: https://www.facebook.com/zenxnezu
-[messenger]: https://www.messenger.com/t/zenxnezu
-[instagram]: https://www.instagram.com/_souptea_
+[facebook]: https://www.facebook.com/ayrinsupty
+[messenger]: https://www.messenger.com/t/ayrinsupty
+[instagram]: https://www.instagram.com/__supty
 
 <!---
 ayrinsupty/ayrinsupty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

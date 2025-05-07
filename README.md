@@ -1,37 +1,46 @@
-## I'm a Student, Graduate and Developer!
+# Hi there, I'm Ayrin Akter Supty 👋
 
-- 👋 Hi, I’m @ayrinsupty
-- 👀 I’m interested in coding and reading novels.
-- 🌱 I’m currently learning Fullstack Web Development.
-- 🥅 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
-- ⚡ Fun fact: I love to play video games, watch anime, web series and movies and listen music.
-- 😄 Pronouns: She / Her
+🎯 *Full Stack Developer | Building modern and scalable web applications*  
+💡 Currently exploring the world of **Data Science**  
+🌍 Based in Bangladesh | 🌐 [ayrinsupty.github.io](https://ayrinsupty.github.io)
 
-### Connect with me:
-[<img align="left" alt="Supty | Dev" height="22px" src="./SocialLogo/Dev.png" />][dev]
-[<img align="left" alt="Supty | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Supty | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Supty | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Supty | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
-[<img align="left" alt="Supty | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="Supty | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][email]
+---
 
+## 👩‍💻 About Me
 
-<br />
+I'm a passionate full stack developer with hands-on experience building responsive, user-friendly applications using **PHP**, **Laravel**, and front-end technologies like **HTML**, **CSS**, **JavaScript**, and **Bootstrap/Tailwind**. I'm committed to writing clean, maintainable code and continuously learning new technologies to stay on the cutting edge.
 
-<p align=center>
-<em>Don't hesitate to get in touch!</em>
+These days, I'm diving into **Data Science**, learning how to work with **Python**, **pandas**, **NumPy**, and **visualization tools** to uncover insights from data.
+
+---
+
+## 🧰 Tech Stack
+
+- 💻 Languages: PHP, JavaScript, Python, HTML, CSS
+- ⚙️ Frameworks: Laravel, Bootstrap, Tailwind CSS
+- 🧠 Learning: Data Science, Machine Learning, Python libraries (pandas, NumPy, Matplotlib)
+- 🛠 Tools: VS Code, Git, GitHub, Figma, Postman
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayrinsupty&show_icons=true&theme=tokyonight" alt="Ayrin's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayrinsupty&theme=tokyonight" alt="Ayrin's GitHub streak" />
 </p>
 
-[dev]: https://dev.to/ayrinsupty
-[email]: mailto:ayrinsupty@hotmail.com
-[whatsapp]: https://wa.me/420776592542
-[twitter]: https://twitter.com/imsupty
-[facebook]: https://www.facebook.com/ayrinsupty
-[messenger]: https://www.messenger.com/t/ayrinsupty
-[instagram]: https://www.instagram.com/__supty
+---
 
-<!---
-ayrinsupty/ayrinsupty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Let's Connect
+
+- 🖥️ Portfolio: [ayrinsupty.github.io](https://ayrinsupty.github.io)
+- 📧 Email: [youremail@example.com] *(replace with your actual email)*
+- 💼 LinkedIn: [linkedin.com/in/ayrinsupty](https://www.linkedin.com/in/ayrinsupty) *(if available)*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by! 💖

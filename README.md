@@ -23,21 +23,11 @@ These days, I'm diving into **Data Science**, learning how to work with **Python
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayrinsupty&show_icons=true&theme=tokyonight" alt="Ayrin's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayrinsupty&theme=tokyonight" alt="Ayrin's GitHub streak" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 🖥️ Portfolio: [ayrinsupty.github.io](https://ayrinsupty.github.io)
-- 📧 Email: [youremail@example.com] *(replace with your actual email)*
-- 💼 LinkedIn: [linkedin.com/in/ayrinsupty](https://www.linkedin.com/in/ayrinsupty) *(if available)*
+- 📧 Email: [ayrinsupty@hotmail.com](ayrinsupty@hotmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ayrinsupty](https://www.linkedin.com/in/ayrinsupty)
 
 ---
 
